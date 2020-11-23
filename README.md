@@ -38,7 +38,7 @@ Este projeto é totalmente em java, e, tem suporte para operar no sistema operac
 Até o momento, não será necessário instalações adicionais, ou hardware. Mas recomenda-se uma quantidade de ao menos 4GB de memória Ram, por conta do uso de Lista-Ligada.
 
 O fluxo de processo do projeto foi projetado da seguinte forma:
-![fluxo_processo](https://drive.google.com/file/d/1GEm6I0x-qGtRJ-2irU02zsHqc-5VVzQR/view?usp=sharing)
+https://drive.google.com/file/d/1GEm6I0x-qGtRJ-2irU02zsHqc-5VVzQR/view?usp=sharing
 
 # How to Work with JavaFx
 
