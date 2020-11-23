@@ -36,3 +36,15 @@ Este projeto é totalmente em java, e, tem suporte para operar no sistema operac
 # Requisitos
 
 Até o momento, não será necessário instalações adicionais, ou hardware. Mas recomenda-se uma quantidade de ao menos 4GB de memória Ram, por conta do uso de Lista-Ligada.
+
+O fluxo de processo do projeto foi projetado da seguinte forma:
+![fluxo_processo](https://drive.google.com/file/d/1GEm6I0x-qGtRJ-2irU02zsHqc-5VVzQR/view?usp=sharing)
+
+# How to Work with JavaFx
+
+Este projeto foi executado totalmente em JavaFx, para uma estrutura MVC simples, de fácil entendimento e correspondência mais ágil na codificação.
+
+O JavaFx se estrutura da seguinte forma:
+Arquivo FXML - Para a definição de estrutura e componentes, conforme o padrão XML, se estrutura por meios de blocos (TAGs).
+Arquivo CSS - Para a definição de estilos de cada bloco e componente.
+Arquivo Java - Geralmente um controller para a realização de processos.
