@@ -38,7 +38,7 @@ Este projeto é totalmente em java, e, tem suporte para operar no sistema operac
 Até o momento, não será necessário instalações adicionais, ou hardware. Mas recomenda-se uma quantidade de ao menos 4GB de memória Ram por conta do uso de elementos gráficos.
 
 O fluxo de processo do projeto foi projetado da seguinte forma:
-https://drive.google.com/file/d/1GEm6I0x-qGtRJ-2irU02zsHqc-5VVzQR/view?usp=sharing
+![Arquitetura JAVAFX](https://drive.google.com/file/d/1GEm6I0x-qGtRJ-2irU02zsHqc-5VVzQR/view?usp=sharing)
 
 # Histórico de decisões
 ```
