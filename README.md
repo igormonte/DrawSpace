@@ -75,4 +75,4 @@ Arquitetura JavaFX:
 Ao iniciar o software, o usuário como padrão estará com a opção pincel, cor branca e tamanho 18, assim, caso o usuário clique e arraste o seu mouse pela tela, as linhas serão
 desenhadas na tela:
 
-![Primeiro Desenho]()
+![Primeiro Desenho](https://github.com/igormonte/DrawSpace/blob/master/1.jpg)
