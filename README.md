@@ -76,3 +76,11 @@ Ao iniciar o software, o usuário como padrão estará com a opção pincel, cor
 desenhadas na tela:
 
 ![Primeiro Desenho](https://github.com/igormonte/DrawSpace/blob/master/1.jpg)
+
+Para acessar o menu, clique no botão "[>>]" no topo direito:
+
+![Acesso ao Menu](https://github.com/igormonte/DrawSpace/blob/master/2.jpg)
+
+Para mudar os aspectos do menu selecione as opções desejadas:
+
+![Acesso ao Menu](https://github.com/igormonte/DrawSpace/blob/master/3.jpg)
