@@ -25,13 +25,13 @@
 
 # Objetivo
 
-O objetivo deste app é proporcionar ao usuário a possibilidade de realizar apresetações ou lecionar com maior facilidade e clareza. Será um overlay de tela, para que possa desenhar traços ou objetos por cima de qualquer area de trabalho ou aplicativo, para fins de explicação ou documentação.
+O objetivo deste app é proporcionar ao usuário a possibilidade de realizar apresentações ou lecionar com maior facilidade e clareza. Será um overlay de tela, para que possa desenhar traços ou objetos por cima de qualquer área de trabalho ou aplicativo, para fins de explicação ou documentação.
 
-Este é um projeto desenvolvido dentro da Universidade San Franscisco no curso de Análise e Desenvolvimento de Sistemas, na materia de "PRÁTICA PROFISSIONAL: PROJETO E DESENVOLVIMENTO DE SOFTWARE"
+Este é um projeto desenvolvido dentro da Universidade San Franscisco no curso de Análise e Desenvolvimento de Sistemas, na matéria de "PRÁTICA PROFISSIONAL: PROJETO E DESENVOLVIMENTO DE SOFTWARE"
 
 # Desenvolvimento
 
-Este projeto é totalmente em java, e, tem suporte para operar no sistema operacional Microsoft Windows. Atualmente o projeto estará efetuando o primeiro entregável dia 30/11/2020, porém o projeto permanecerá em constante evolução.
+Este projeto é totalmente em Java, e, tem suporte para operar no sistema operacional Microsoft Windows. Atualmente o projeto estará efetuando o primeiro entregável dia 30/11/2020, porém o projeto permanecerá em constante evolução.
 
 # Requisitos
 
@@ -72,8 +72,7 @@ Arquitetura JavaFX:
 [![Link para Curso de JavaFX](http://img.youtube.com/vi/P13ycvI-17Q/0.jpg)](http://www.youtube.com/watch?v=P13ycvI-17Q "Curso de JavaFX")
 
 # Utilização
-Ao iniciar o software, o usuário como padrão estará com a opção pincel, cor branca e tamanho 18, assim, caso o usuário clique e arraste o seu mouse pela tela, as linhas serão
-desenhadas na tela:
+Ao iniciar o software, o usuário como padrão estará com a opção pincel, cor branca e tamanho 18, assim, caso o usuário clique e arraste o seu mouse pela tela, as linhas serão desenhadas na tela:
 
 ![Primeiro Desenho](https://github.com/igormonte/DrawSpace/blob/master/1.jpg)
 
@@ -91,7 +90,7 @@ Para mudar os aspectos do menu selecione as opções desejadas:
   Em arquivo você pode salvar seu desenho, persistindo o arquivo na arvore do projeto. Outra possibilidade é de sair do sistema.
   
   ### Formas
-  Em formas você pode selecionar a opção circulo ou retângulo para faciliar a circulação de algum elemento na tela
+  Em formas você pode selecionar a opção círculo ou retângulo para facilitar a circulação de algum elemento na tela
   
   ### Tamanho
   O tamanho default da linha é 18, alterando o valor, você poderá aumentar ou diminuir da forma que desejar
