@@ -88,7 +88,7 @@ Para mudar os aspectos do menu selecione as opções desejadas:
 ## Aspectos:
 
   ### Arquivo
-  Em arquivo você pode salvar seu desenho, persistindo o arquivo na arvore do projeto
+  Em arquivo você pode salvar seu desenho, persistindo o arquivo na arvore do projeto. Outra possibilidade é de sair do sistema.
   
   ### Formas
   Em formas você pode selecionar a opção circulo ou retângulo para faciliar a circulação de algum elemento na tela
