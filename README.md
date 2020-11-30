@@ -84,3 +84,23 @@ Para acessar o menu, clique no botão "[>>]" no topo direito:
 Para mudar os aspectos do menu selecione as opções desejadas:
 
 ![Acesso ao Menu](https://github.com/igormonte/DrawSpace/blob/master/3.jpg)
+
+## Aspectos:
+
+  ### Arquivo
+  Em arquivo você pode salvar um screenShot de seu desenho, persistindo o arquivo na arvore do projeto
+  
+  ### Formas
+  Em formas você pode selecionar a opção circulo ou retângulo para faciliar a circulação de algum elemento na tela
+  
+  ### Tamanho
+  O tamanho default da linha é 18, alterando o valor, você poderá aumentar ou diminuir da forma que desejar
+  
+  ### Cor
+  A cor default é branca, clicando neste objeto você terá acesso a mais opções de cor.
+  
+  ### Pincel
+  Ao clicar neste botão você estará apto a desenhar elementos gráficos a mão livre.
+  
+  ### Borracha  
+  Ao clicar neste botão você estará apto a apagar qualquer elemento gráfico do canvas.
